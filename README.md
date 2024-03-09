@@ -32,8 +32,7 @@ python main.py
     - `api_key` - Your Zotero API Key
     - `collection_key` - The collection ID you want to fetch
     - `user_id` - Your Zotero User ID
-    - `include_subcollections` - `True` or `False` to include subcollections in the BibTeX or not
-
+    - `include_subcollections` - `True` to include sub-collections, `False` to exclude them
 
 
 ## Docker
